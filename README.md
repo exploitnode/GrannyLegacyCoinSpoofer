@@ -15,9 +15,7 @@ It automatically locates the correct registry entry under `HKEY_CURRENT_USER` an
 
 ## Requirements
 
-- Windows operating system (tested on Windows 10/11)
-- Administrator privileges (the script will ask for elevation)
-- PowerShell (pre‑installed on all modern Windows versions)
+- Windows operating system (Windows 10/11)
 
 ## How to use
 
