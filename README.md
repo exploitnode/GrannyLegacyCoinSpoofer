@@ -41,5 +41,4 @@ All modifications are performed without altering any other registry keys.
 ## Disclaimer
 
 This tool is provided for **educational purposes only**.  
-Modifying game data may violate the game’s terms of service and could result in a ban or other consequences.  
 Use it at your own risk. The author is not responsible for any account penalties, data loss, or damages caused by this software.
