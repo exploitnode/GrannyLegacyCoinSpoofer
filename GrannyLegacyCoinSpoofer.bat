@@ -1,5 +1,6 @@
 @echo off
 net session >nul 2>&1
+title Granny Legacy Coin Spoofer
 if %errorlevel% neq 0 (
     echo Requesting administrator rights...
     powershell -NoProfile -Command "Start-Process -FilePath '%~f0' -Verb RunAs"
