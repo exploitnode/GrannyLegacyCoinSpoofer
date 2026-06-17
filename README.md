@@ -1,6 +1,7 @@
 # Granny Legacy Coins Spoofer
 
 ## **Working as of June 2026**
+## **Project built on Granny Legacy 1.8.8 build**
 
 A batch‑based utility that modifies the saved coin value in *Granny: Legacy* to **9999**.  
 It automatically locates the correct registry entry under `HKEY_CURRENT_USER` and applies the required binary data, all with colour‑coded status feedback (green = success, red = failure).
